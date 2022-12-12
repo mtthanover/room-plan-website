@@ -19,8 +19,8 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
+your_name                                 :                                 
+your_link                                 :                      
 your_city                                 : Los Angeles, CA                                
 email_address                             : roomplan3dscanner@gmail.com
 facebook_username                         :                                           
@@ -48,7 +48,7 @@ features                                  :
     
   - title                                 : Save
     description                           : Save up to 5 scans for free, unlimited scans saved with RoomPlan Pro
-    fontawesome_icon_name                 : bookmark-o
+    fontawesome_icon_name                 : bookmark
 
 
 
